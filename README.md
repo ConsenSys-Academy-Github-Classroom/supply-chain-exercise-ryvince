@@ -45,7 +45,7 @@ and `only` which runs only that test. But what if more than one test have the
     [sku](https://en.wikipedia.org/wiki/Stock_keeping_unit)s in our supply
     chain. Each item for sale will have a unique sku number. 
 
-    **hint**: define a public variable called `skuCounter` of type uint
+    **hint**: define a public variable called `skuCount` of type uint
 
     </details>
 
