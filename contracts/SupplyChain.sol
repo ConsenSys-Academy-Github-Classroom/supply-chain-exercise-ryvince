@@ -173,6 +173,6 @@ event LogReceived(uint sku);
 ///remove last section
 function add(uint a, uint b) returns (uint){ return (a+b); }
 function add(uint a, uint b) returns (uint c){ c = a + b; }
-function add(uint a, uint b) { return (a+b)}
+function add(uint a, uint b) { return (a+b); }
 function add(uint a, uint b) returns (uint){ uint c = a + b; return c; }
 
